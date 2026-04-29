@@ -1,0 +1,30 @@
+# DNS Bypass Hosts Cache
+# Format: domain  IP
+# Lines starting with # are ignored
+# This file is auto-reloaded every 5 seconds if changed.
+
+# Google services
+google.com          142.250.185.46
+googleapis.com      142.250.185.74
+youtube.com         142.250.185.14
+gmail.com           142.250.185.17
+
+# Meta / Facebook
+facebook.com        157.240.241.35
+instagram.com       157.240.241.174
+whatsapp.com        157.240.241.60
+
+# Twitter / X
+twitter.com         104.244.42.193
+x.com               104.244.42.1
+
+# Cloudflare
+cloudflare.com      104.16.132.229
+1.1.1.1             1.1.1.1
+
+# GitHub
+github.com          140.82.121.4
+raw.githubusercontent.com  185.199.108.133
+
+# Telegram
+telegram.org        149.154.167.99
